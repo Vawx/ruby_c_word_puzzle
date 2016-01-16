@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <string.h>
-
 const char*
 RemoveVowels( char* current )
 {
